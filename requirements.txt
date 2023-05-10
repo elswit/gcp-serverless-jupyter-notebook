@@ -1,9 +1,9 @@
 # jupyterlab
-notebook==6.3.0
-pandas==1.2.4
-requests==2.25.1
-pyarrow==3.0.0
+notebook
+pandas
+requests
+pyarrow
 google-cloud-bigquery
 papermill
-flask==1.1.2
-gunicorn==20.1.0
+flask
+gunicorn
